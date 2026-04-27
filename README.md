@@ -46,10 +46,10 @@
 ## 🚀 Установка и запуск
 
 ```bash
-git clone https://github.com/Anyusek/gem-blitz.git
-cd gem-blitz
+git clone https://github.com/Anyusek/GemBlitz3.git
+cd GemBlitz3
 pip install pygame
-python main.py
+python GemBlitz3.py
 ```
 
 ---
